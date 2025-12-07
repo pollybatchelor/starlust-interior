@@ -57,7 +57,7 @@ const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-app-id';
 // EDIT THESE LISTS below to match your vessel's SOPs.
 // These will be uploaded to the database the first time you run the app.
 
-const CREW_MEMBERS = ["Chief", "Taz", "Liv", "Afrika", "Lucinda"];
+const CREW_MEMBERS = ["Chief", "Taz", "Liv", "Afrika", "Lucinda, Simon"];
 
 const DEFAULT_ROTATIONS = [
   { 
